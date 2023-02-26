@@ -394,6 +394,62 @@ patch:
         patched: '2023-02-26T21:01:28.661Z'
     - ember-k-codemod > jscodeshift > babel-preset-stage-1 > babel-preset-stage-2 > babel-preset-stage-3 > babel-plugin-transform-async-to-generator > babel-helper-remap-async-to-generator > babel-helper-function-name > babel-template > babel-traverse > babel-types > lodash:
         patched: '2023-02-26T21:01:28.661Z'
+    - babel-core > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-generator > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-template > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-generator > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-template > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-template > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-helpers > babel-template > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-generator > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-template > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-generator > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2023-02-26T21:02:00.833Z'
   'npm:lodash:20180130':
     - babel-core > babel-plugin-proto-to-assign > lodash:
         patched: '2023-02-26T21:01:28.661Z'
